@@ -22,6 +22,7 @@ function Womens() {
         <Button onClick={() => navigate('/arrival')} size={["xs","sm","md"]} marginTop='10px' borderRadius='0px' bgColor="white"color="black" _hover={{bgColor:'white'}}>SHOP NOW {`>>`}</Button>
       </Box>
       </Box>
+      
       <Box mb="50px" boxShadow='inner'  p="8px" bgColor="#faf9f8">
         <Text mt="50px" mb="20px" fontSize={['10px','10px','20px']}>DON'T MISS OUT</Text>
         <Text mb="25px" fontSize={["13px","20px",'36px']}>New Arrival</Text>

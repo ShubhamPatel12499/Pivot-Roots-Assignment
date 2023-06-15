@@ -114,6 +114,7 @@ const Mens = () => {
               </Box>
             </Text>
           </Box>
+          
           <Text m="10px"  fontSize="15px" align="left"  w={["100%","100%","80%"]} >Mytheresa has a long and rich fashion heritage that spans more than 30 years. What began in the heart of Munich as a contained local boutique offering creations from international designers has now grown to become one of the most innovative luxury e-commerce companies in the world. Whether you’re paying a visit to our Mytheresa Store, browsing from your computer at home, or shopping on-the-go via our mobile app, our goal always remains the same: to provide the perfect space that caters to all your shopping desires.</Text>
           <Text m="10px"  fontSize="15px" align="left"  w={["100%","100%","80%"]} >At Mytheresa we know that stylish men love fashion too and as a result, our professional Customer Service team is here to help with your order and make sure you are always dressed for success.</Text>
         </Box>

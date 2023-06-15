@@ -16,11 +16,8 @@ const Footer = () => {
       <Box align="left" m="30px"  display={["block","flex","flex"]} justifyContent="space-evenly" >
             <Text  w={["100%","25%","25%"]} >SERVICE & SECURITY
               <Box   m="10px"  fontSize="15px" >
-
-                
                 <Text> ✔  Fast delivery</Text>
-                <Text  mb="10px" color="gray" >Delivery within 2 business days</Text>
-                
+                <Text  mb="10px" color="gray" >Delivery within 2 business days</Text>           
                 <Text > ✔  Free returns within 30 days </Text>
                 <Text  mb="10px" color="gray" >Convenient return service</Text>
                 <Text> ✔  Secure payment and data protection </Text>

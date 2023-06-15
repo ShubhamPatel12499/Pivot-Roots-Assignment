@@ -14,6 +14,7 @@ export const Kids = () => {
             <Container textAlign="center" fontSize={["15px", "20px", "55px"]}>
                 Girls
             </Container>
+            
             <Button color="black" size={['xs','md','lg']} onClick={() => navigate('/arrival')}>
                 SHOP NOW {`>>`}
             </Button>
