@@ -79,6 +79,7 @@ import { useNavigate } from "react-router-dom";
               mt="40px"
               onClick={() => navigate('/arrival')}
             >
+                
               SHOP NOW {`>>`}
             </Button>
           </Box>
