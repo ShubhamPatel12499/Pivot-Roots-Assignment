@@ -12,8 +12,7 @@ export const AllRoutes = () => {
       <Route path="/" element={<Home/>} />
       <Route path="/mens" element={<Mens/>} />
       <Route path="/womens" element={<Womens/>} />
-      <Route path="/kids" element={<Kids/>} />
-    
+      <Route path="/kids" element={<Kids/>} /> 
     </Routes>
   );
 };
