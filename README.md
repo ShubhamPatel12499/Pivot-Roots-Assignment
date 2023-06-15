@@ -7,6 +7,9 @@ Working Feautres :-
 - Mens Page
 - Womens Page
 - Kids Page
+- Navbar
+- Footer
+- Dropdown
 - Fully Responsive Site
 
 Tech Stack :-
